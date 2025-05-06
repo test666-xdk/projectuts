@@ -1,0 +1,35 @@
+* {
+    margin: 0 auto;
+    padding: 0 ;
+}
+body{
+    background-image: url('pngtree-blue-technology-web-banner-image_122453\ \(1\).jpg');
+
+}
+nav{
+    background: rgb(216, 106, 183);
+    width: 100%;
+    height: 20px;
+    margin-top: auto;
+    padding: 15px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    position: sticky;
+}
+#navbar{
+    background: rgb(255, 255, 255);
+    height: 10px;
+    width:100%;
+    padding: 15px;
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    position: sticky; 
+}
+footer{
+    color: rgb(7, 6, 7);
+    margin: 0 auto;
+    padding: 300px;   
+}
+
