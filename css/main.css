@@ -7,7 +7,7 @@ body{
 
 }
 nav{
-    background: rgb(216, 106, 183);
+    background: rgb(204, 137, 184);
     width: 100%;
     height: 20px;
     margin-top: auto;
@@ -18,7 +18,7 @@ nav{
     position: sticky;
 }
 #navbar{
-    background: rgb(255, 255, 255);
+    background: rgb(164, 243, 144);
     height: 10px;
     width:100%;
     padding: 15px;
